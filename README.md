@@ -12,8 +12,8 @@ This repository documnets my personal project to build practical process enginne
 **objective:** To learn optimization and visualization tools
 
 **what i built:**
--Excel goal seek and excel solver models to maximamize profit of a small cookie business
-- python plots for process variables(conversion, temperature, flow)
+- Excel goal seek and excel solver models to maximamize profit of a small cookie business
+- python plots for process variables(water temperature vs viscosity)
 
 ## how to run 
 -Excel: Open the ".xlsx" file and run Solver
