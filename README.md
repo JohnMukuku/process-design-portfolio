@@ -65,11 +65,21 @@ A feed stream of 100 kmol/h of component A is processed in a reactor where A is 
 - Python (Matplotlib for visualization)
 
 ---
-
 ## Repository Structure
-- `Excel_Model/` – Material balance and process calculations  
-- `Python/` – Engineering plots and visualization  
-- `Report/` – Project summary  
+
+The repository contains the following key files:
+
+- `Conversion vs product.py` – Python script showing the relationship between conversion and product formation  
+
+- `Viscosity of water vs temperature.py` – Python script for plotting temperature vs viscosity using engineering data  
+
+- `temperature vs viscocity.pdf` – Exported plot of viscosity vs temperature  
+
+- `Excel solver profit optimization.xlsx` – Excel model using Solver to maximize profit under constraints  
+
+- `reactor separator model.xlsx` – Excel model for steady-state material balance of reactor and separator system  
+
+- `Process Design Project summary.pdf` – One-page summary of the final process design project  
 
 ---
 
